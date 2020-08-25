@@ -1,6 +1,6 @@
 # Cookiecutter Data Science
 
-_A logical, reasonably standardized, but flexible project structure for doing and sharing data science work._
+_Estandar de proyectos de analítica para Ecopetrol_
 
 
 #### [Project homepage](http://drivendata.github.io/cookiecutter-data-science/)
